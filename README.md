@@ -1,7 +1,7 @@
 # React JS COVID Tracker 
 
-Here is the Website : <br>
-`covid-19-live-tracker-2b008.web.app` <br><br>
+Here is the Website : <br />
+[covid-19-live-tracker](https://covid-19-live-tracker-2b008.web.app/)<br />
 Live statistics with coronavirus counter for new confirmed daily cases, total cases, death toll,recovered patients with historical data ,info with charts and graphs.
 
 ## Available Scripts
